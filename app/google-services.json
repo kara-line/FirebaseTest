@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "254575993924",
+    "firebase_url": "https://fir-test-b7c42.firebaseio.com",
+    "project_id": "fir-test-b7c42",
+    "storage_bucket": "fir-test-b7c42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254575993924:android:86bff0a939311f5c",
+        "android_client_info": {
+          "package_name": "com.example.karae.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254575993924-09ij0hi6uui0rqufc02c839ndbhtrq67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNYLE7FyZ2WbOuYAVwBs-Pus7Z-mkxywE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
