@@ -24,7 +24,8 @@
         <activity android:name=".SignIn" />
         <activity android:name=".Shipment" />
         <activity android:name=".MainActivityAdmin" />
-        <activity android:name=".ShipmentAdmin"></activity>
+        <activity android:name=".ShipmentAdmin" />
+        <activity android:name=".Process"></activity>
     </application>
 
 </manifest>
